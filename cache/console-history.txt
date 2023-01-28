@@ -1,0 +1,7 @@
+await ethers.getContractFactory( "Lock ");
+await ethers.getContractFactory( "look.sol ");
+await ethers.getContractFactory( "lock ");
+await ethers.getContractFactory( "look ");
+await ethers.getContractFactory( "Greeter ");
+await ethers.getSigner();
+ethers
